@@ -9,4 +9,4 @@ Bienvenue sur Mon Site Animé ! C'est une page web très simple avec une jolie a
 
 ## Personnalisation
 
-Si vous souhaitez personnaliser l'animation ou les styles, vous pouvez modifier le fichier `styles.css` pour apporter les changements souhaités.
+
